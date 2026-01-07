@@ -3,7 +3,7 @@ import { Search, ChevronDown, User, Heart, ShoppingCart, Menu } from "lucide-rea
 
 export default function Header() {
   return (
-    <header className="w-full">
+    <header className="w-full sticky top-0 z-50">
       {/* Top Header - Teal Dark Background */}
       <div className="bg-brand-teal-dark text-white">
         <div className="container mx-auto px-4 lg:px-16">

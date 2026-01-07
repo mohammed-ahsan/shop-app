@@ -239,7 +239,7 @@ This project is created for assessment purposes.
 
 ## 👨‍💻 Author
 
-[Your Name]
+Ahsan
 
 ---
 
